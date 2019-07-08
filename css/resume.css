@@ -189,3 +189,12 @@ a {
 a:hover, a:focus, a:active {
   color: #824027;
 }
+
+.course-tag {
+  margin-top: -1em;
+}
+
+.download-certificates {
+  margin-top: -1em;
+  margin-bottom: 2em;
+}
