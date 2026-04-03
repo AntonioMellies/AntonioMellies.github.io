@@ -8,7 +8,7 @@ export const site = {
   social: [
     {
       key: "linkedin" as const,
-      href: "https://www.linkedin.com/in/antonio-mellies-39895355/",
+      href: "https://www.linkedin.com/in/antonio-mellies",
     },
     { key: "github" as const, href: "https://github.com/AntonioMellies" },
     {
