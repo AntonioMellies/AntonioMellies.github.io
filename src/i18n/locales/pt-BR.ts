@@ -33,7 +33,6 @@ export const ptBR: Dictionary = {
     es: "Español",
   },
   hero: {
-    badge: "Disponível para oportunidades em engenharia de software",
     greeting: "Olá, eu sou Antonio Mellies.",
     headline:
       "Backend, plataforma cloud e dados com foco em confiabilidade em produção.",

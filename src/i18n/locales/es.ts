@@ -33,7 +33,6 @@ export const es: Dictionary = {
     es: "Español",
   },
   hero: {
-    badge: "Disponible para oportunidades en ingeniería de software",
     greeting: "Hola, soy Antonio Mellies.",
     headline:
       "Backend, plataforma cloud y datos con foco en fiabilidad en producción.",

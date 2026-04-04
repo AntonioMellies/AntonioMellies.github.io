@@ -26,7 +26,6 @@ export type Dictionary = {
   theme: { label: string; dark: string; light: string; system: string };
   language: { label: string; ptBR: string; en: string; es: string };
   hero: {
-    badge: string;
     greeting: string;
     headline: string;
     roles: string[];

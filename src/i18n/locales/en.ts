@@ -33,7 +33,6 @@ export const en: Dictionary = {
     es: "Español",
   },
   hero: {
-    badge: "Available for software engineering opportunities",
     greeting: "Hi, I'm Antonio Mellies.",
     headline:
       "Backend, cloud platform, and data systems with a focus on production reliability.",

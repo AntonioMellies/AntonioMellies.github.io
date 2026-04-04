@@ -35,11 +35,6 @@ export function HeroSection() {
         variants={staggerContainer}
       >
         <motion.div variants={fadeUp} className="space-y-8">
-          <p className="inline-flex items-center gap-2 rounded-full border border-zinc-200/90 bg-white/60 px-3 py-1 text-xs font-medium uppercase tracking-[0.2em] text-zinc-600 backdrop-blur-md dark:border-white/10 dark:bg-white/5 dark:text-zinc-300">
-            <span className="h-1.5 w-1.5 rounded-full bg-emerald-500 shadow-[0_0_12px_rgba(16,185,129,0.85)] dark:bg-emerald-400 dark:shadow-[0_0_12px_rgba(52,211,153,0.9)]" />
-            {t.hero.badge}
-          </p>
-
           <div className="space-y-4">
             <h1
               id="hero-heading"
